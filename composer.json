@@ -8,6 +8,9 @@
             "App\\": "src/app"
         }
     },
+    "files": [
+        "src\\config"
+    ],
     "authors": [
         {
             "name": "Carina Zen",
